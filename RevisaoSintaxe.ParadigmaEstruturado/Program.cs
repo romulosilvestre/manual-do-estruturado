@@ -107,7 +107,7 @@ namespace RevisaoSintaxe.ParadigmaEstruturado
             }
             else
             {
-                Console.WriteLine("Não existe esse valor");
+                Console.WriteLine("Não existe esse valor! Por favor, digite novamente!");
             }
 
             switch (mes)
